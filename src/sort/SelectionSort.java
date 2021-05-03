@@ -1,4 +1,4 @@
-package Sort;
+package sort;
 
 
 //https://ict-nroo.tistory.com/52

@@ -1,4 +1,4 @@
-package Sort;
+package sort;
 
 
 //https://www.youtube.com/watch?v=7BDzle2n47c
