@@ -38,6 +38,7 @@ public class p93 {
                 }
             }
         }
+        System.out.println("test");
 
         System.out.println(count);
 
