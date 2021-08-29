@@ -2,7 +2,7 @@ package book;
 
 public class p70 {
     public static void main(String[] args) {
-        int[] input = {5,8,3};
+        int[] input = {5,8,3}; // 배열의 크기, 숫자가 더해지는 횟수, 연속
         int[] input2 = {2,4,5,4,6};
         int count = 0;
         int sum = 0;
@@ -27,6 +27,7 @@ public class p70 {
         System.out.println(sum);
 
     }
+
 
     public static void bubbleSortMax(int[] input){
         int tmp;
